@@ -1,0 +1,17 @@
+
+For MongoDB:
+
+Pls dowload and install it on you PC
+Make sure that you have MongoDBCompass in your installation package. 
+Run MongoDBCompass - press 'connect'- run the spider
+
+To run the spider you need to set the directory
+example:
+C:\Users\Files\upwork\upwork\upwork\spiders> 
+
+After you are in the 'spiders' folder pls type next:
+
+scrapy crawl adorebeauty
+
+After you start running the scraper pls find txt file called "log". So you can see there the whole prosses of crawling and all ERRORS messages etc.
+My tip is to delete it every time after you run the scraper. 
